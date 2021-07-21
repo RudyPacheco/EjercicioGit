@@ -35,4 +35,8 @@ no sé cómo ni sé
 con qué pretexto
 por fin me necesites.
 
+<<<<<<< HEAD
 Ultima linea.
+=======
+Fin.
+>>>>>>> 05075576dc5f460b4ddcb337204136aabf20bed2
